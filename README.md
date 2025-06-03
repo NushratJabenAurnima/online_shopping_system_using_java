@@ -2,8 +2,6 @@
 
 A Java-based online shopping application designed to offer a comprehensive shopping experience, integrating product browsing, cart management, and multiple payment methods. This project utilizes key Java concepts such as classes, inheritance, arrays, and exception handling to provide a functional, scalable solution.
 
-
-
 ## 🚀 **Project Overview**
 
 The Online Shopping System allows users to:
@@ -16,7 +14,13 @@ The Online Shopping System allows users to:
 - **Print Slip**: Generate and print a detailed receipt for each completed transaction.
 - **Terminate Process**: End the session securely and clear temporary data.
 
+## 🧑‍🤝‍🧑 Collaboration
 
+Project contributor:
+
+- [Zihad Khan](https://github.com/Zihad107)
+
+> _Thanks for the valuable contribution to the development of this system._
 
 ## 🔹 **Features**
 
